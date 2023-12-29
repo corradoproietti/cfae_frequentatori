@@ -1,0 +1,94 @@
+firstname;lastname;idnumber;email;username;auth;course;group
+Danilo;ALCIDI;A8023612;danilo.alcidi@aeronautica.difesa.it;danilo.alcidi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Marco;ALEMANNO;A8503154;marco.alemanno@aeronautica.difesa.it;marco.alemanno@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Paolo;ALESSANDRINI;A8600367;paolo.alessandrini@aeronautica.difesa.it;paolo.alessandrini@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Alessandro;ALLEGRA;A8210445;alessandro.allegra@aeronautica.difesa.it;alessandro.allegra@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Davide;AMMIRATA;A8213175;davide.ammirata@aeronautica.difesa.it;davide.ammirata@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giuseppe;ANTONUCCI;A8405799;giuseppe.antonucci@aeronautica.difesa.it;giuseppe.antonucci@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Marco;BARGELLI;A8308094;marco.bargelli@aeronautica.difesa.it;marco.bargelli@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Manolo;BASSO;A7642082;manolo.basso@aeronautica.difesa.it;manolo.basso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Luca;BECHINI;A7810364;luca.bechini@aeronautica.difesa.it;luca.bechini@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Gaetano;BERNARDO;A7710471;gaetano1.bernardo@aeronautica.difesa.it;gaetano1.bernardo@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Vincenzo Antonino;BONDI';A8021847;vincenzo.bondi@aeronautica.difesa.it;vincenzo.bondi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Oriana;CAFISO;A9300292;oriana.cafiso@aeronautica.difesa.it;oriana.cafiso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Andrea;CALORO;;andrea.caloro@aeronautica.difesa.it;andrea.caloro@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giovanni;CAMMICIA;A8307223;giovanni.cammicia@aeronautica.difesa.it;giovanni.cammicia@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Pierangelo;CAPALBO;A8310658;pierangelo.capalbo@aeronautica.difesa.it;pierangelo.capalbo@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Luigi;CAPOGROSSO;A7826056;luigi.capogrosso@aeronautica.difesa.it;luigi.capogrosso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Salvatore;CAPUTO;;salvatore.caputo@marina.difesa.it;salvatore.caputo@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giuseppe;CARELLA;;giuseppe1.carella@marina.difesa.it;giuseppe1.carella@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giovanni;CARMOSINO;A7642275;giovanni.carmosino@aeronautica.difesa.it;giovanni.carmosino@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Francesco;CARONE;;francesco.carone@marina.difesa.it;francesco.carone@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Jacopo;CERASI;A8115563;jacopo.cerasi@aeronautica.difesa.it;jacopo.cerasi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Filippo;CERAVOLO;A7525890;filippo1.ceravolo@aeronautica.difesa.it;filippo1.ceravolo@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Andrea;CICCOZZI;A7626757;andrea.ciccozzi@aeronautica.difesa.it;andrea.ciccozzi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Antonio;CINIERI;;antonio.cinieri@aeronautica.difesa.it;antonio.cinieri@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Antonio Vito;COLAVITTO;;antoniov.colavitto@marina.difesa.it;antoniov.colavitto@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giuseppe Paolo;COLLETTA;A8406647;giuseppe.colletta@aeronautica.difesa.it;giuseppe.colletta@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Salvatore;COLOSIMO;A8900305;salvatore.colosimo@aeronautica.difesa.it;salvatore.colosimo@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Gianluca;CONTE;A9300261;gianluca.conte@aeronautica.difesa.it;gianluca.conte@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Luigi;COSTANZO;A7641349;luigi1.costanzo@aeronautica.difesa.it;luigi1.costanzo@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giuseppe;D'APRILE;A7645989;giuseppe.daprile@aeronautica.difesa.it;giuseppe.daprile@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Luca Diego;D'ASCANIO;;lucadascanio1997@gmail.com;lucadascanio1997@gmail.com;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Marcantonio;DAMBROSIO;A9200803;marcantonio.dambrosio@aeronautica.difesa.it;marcantonio.dambrosio@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Simone;DE ANGELIS;;simone3.deangelis@aeronautica.difesa.it;simone3.deangelis@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Marco;DE LORENZIS;A9500427;marco.delorenzis@aeronautica.difesa.it;marco.delorenzis@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Ciro;DE SANTIS;A7422852;ciro.desantis@aeronautica.difesa.it;ciro.desantis@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giudice Monica;DEL;A9300769;monica.delgiudice@aeronautica.difesa.it;monica.delgiudice@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giuseppe;DEL ROSSO;A8800445;giuseppe.delrosso@aeronautica.difesa.it;giuseppe.delrosso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Antimo;DI DONATO;A8900540;antimo1.didonato@aeronautica.difesa.it;antimo1.didonato@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Cristian;ERRICO;;cristian.errico@marina.difesa.it;cristian.errico@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Fabrizio;EVANGELIO;A9300477;fabrizio.evangelio@aeronautica.difesa.it;fabrizio.evangelio@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Luigi;FARINA;A7203323;luigi1.farina@aeronautica.difesa.it;luigi1.farina@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Fabio;FERRANTE;A7818311;fabio.ferrante@aeronautica.difesa.it;fabio.ferrante@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giordano;FERRANTE;A9000152;giordano.ferrante@aeronautica.difesa.it;giordano.ferrante@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Angelo;FRANCIOSO;A8307063;angelo1.francioso@aeronautica.difesa.it;angelo1.francioso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Alessio;FRAU;;alessio.frau@aeronautica.difesa.it;alessio.frau@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Cosimo;FRUSI;;cosimo.frusi@marina.difesa.it;cosimo.frusi@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Andrea;GENMI;A8407388;andrea.genmi@aeronautica.difesa.it;andrea.genmi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Grazia M. I.;GIAFFREDA;A9400294;grazia.giaffreda@aeronautica.difesa.it;grazia.giaffreda@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Josef;GIARDI;A7114572;josef.giardi@aeronautica.difesa.it;josef.giardi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Massimiliano;GIULI;A7203121;massimiliano.giuli@aeronautica.difesa.it;massimiliano.giuli@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Antonio;IENCO;A7114591;antonio.ienco@aeronautica.difesa.it;antonio.ienco@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Michele;IEZZA;A7319557;michele.iezza@aeronautica.difesa.it;michele.iezza@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Maurizio;INATTESO;;maurizio.inatteso@aeronautica.difesa.it;maurizio.inatteso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Lorenzo;LA MALFA;;lorenzo1.lamalfa@marina.difesa.it;lorenzo1.lamalfa@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Antonio;LAMA;A8115174;antonio.lama@aeronautica.difesa.it;antonio.lama@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Ludovica;LANZILLI;A9800395;ludovica.lanzilli@aeronautica.difesa.it;ludovica.lanzilli@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Nicolo;LATTANTE;A8210510;nicolo.lattante@aeronautica.difesa.it;nicolo.lattante@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Pasquale;LENTI;;pasquale.lenti@marina.difesa.it;pasquale.lenti@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Graziano;LERNA;;graziano.lerna@marina.difesa.it;graziano.lerna@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Fabio;LETIZIA;;fabio.letizia@marina.difesa.it;fabio.letizia@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Bruno;LIGUORO;;bruno.liguoro@aeronautica.difesa.it;bruno.liguoro@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Claudio;MALLOZZI;A8211760;claudio.mallozzi@aeronautica.difesa.it;claudio.mallozzi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Massimiliano;MARCHIO';A9200650;massimiliano.marchio@aeronautica.difesa.it;massimiliano.marchio@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Massimiliano;MASELLA;A8023964;massimiliano.masella@aeronautica.difesa.it;massimiliano.masella@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Federico;MATTANA;A9400704;federico.mattana@aeronautica.difesa.it;federico.mattana@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Carmine;MERCOLINO;A8013300;carmine.mercolino@aeronautica.difesa.it;carmine.mercolino@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Francesco;MONTRONE;A9700327;francesco.montrone@aeronautica.difesa.it;francesco.montrone@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Mirko;MUCHETTI;A7720688;mirko.muchetti@aeronautica.difesa.it;mirko.muchetti@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Cataldo Alex;NACCI;;cataldoa.nacci@marina.difesa.it;cataldoa.nacci@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Roberto;NATALE;A9400855;roberto.natale@aeronautica.difesa.it;roberto.natale@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Costantino;ORRU';A7332837;costantino.orru@aeronautica.difesa.it;costantino.orru@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giovanna;PELUSO;;giovanna1.peluso@aeronautica.difesa.it;giovanna1.peluso@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Marco;PENNISI;A7326358;marco.pennisi@aeronautica.difesa.it;marco.pennisi@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Gianluca;PERFETTI;;gianluca.perfetti@aeronautica.difesa.it;gianluca.perfetti@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Davide;PERRONE;;davide1.perrone@aeronautica.difesa.it;davide1.perrone@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Emanuele;PETRUZZELLI;A9100230;emanuele.petruzzelli@aeronautica.difesa.it;emanuele.petruzzelli@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giuseppe;PEZZULLO;A9100891;giuseppe4.pezzullo@aeronautica.difesa.it;giuseppe4.pezzullo@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Stefano;PISANI;A7226813;stefano.pisani@aeronautica.difesa.it;stefano.pisani@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Moreno;PISCOPIELLO;;moreno.piscopiello@marina.difesa.it;moreno.piscopiello@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Alessandro;PLATANIA;A7407283;alessandro.platania@aeronautica.difesa.it;alessandro.platania@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Roberto;QUARTA;A7203425;roberto.quarta@aeronautica.difesa.it;roberto.quarta@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Vincenzo;RAUCCI;A7019426;vincenzo1.raucci@aeronautica.difesa.it;vincenzo1.raucci@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Alfredo;RAZIONALE;A7012580;alfredo.razionale@aeronautica.difesa.it;alfredo.razionale@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giovanni;RESCIGNO;;giovanni.rescigno@marina.difesa.it;giovanni.rescigno@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Tommaso;RIONDINO;;tommaso.riondino@marina.difesa.it;tommaso.riondino@marina.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Andrea;ROCCO;A9200479;andrea2.rocco@aeronautica.difesa.it;andrea2.rocco@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Salvatore;SANTABARBARA;A8407117;salvatore.santabarbara@aeronautica.difesa.it;salvatore.santabarbara@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Gianluca;SCARPA;A9500124;gianluca.scarpa@aeronautica.difesa.it;gianluca.scarpa@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Ilaria;SCHINAIA;A9500551;ilaria.schinaia@aeronautica.difesa.it;ilaria.schinaia@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Alberto Maria;SCOGNAMIGLIO;A8206768;alberto.scognamiglio@aeronautica.difesa.it;alberto.scognamiglio@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Domenico;SEMERARO;A7500078;domenico1.semeraro@aeronautica.difesa.it;domenico1.semeraro@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Pietro;SERRA;A8600282;pietro1.serra@aeronautica.difesa.it;pietro1.serra@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM
+Giancarlo;ACCOTO;;giancarlo.accoto@aeronautica.difesa.it;giancarlo.accoto@aeronautica.difesa.it;ldap;CORSO_2023_ABCDE;2023_GE_3PREINT_EXAM

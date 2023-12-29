@@ -1,0 +1,19 @@
+givenName = Prima lettera del nome maiuscolo ( es: Maria Teresa)
+sn = Cognome tutto in maiuscolo (Es. ESPOSITO)
+commonName = givenName + " " + sn
+displayName = commonName
+name = commonName
+userPrincipalName = la email fornita ( mariateresa.esposito@gmail.com oppure mariateresa.esposito@aeronautica.difesa.it) - verificare che UPN sia nel formato di email .*@domain.tld
+sAMAccountName = parte antecedente @ dell'UPN
+userAccountControl = 66048 (ref. https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/useraccountcontrol-manipulate-account-properties)
+memberOf = DN del gruppo nel quale inserire l'utente incluso nei doppi apici (es:  "CN=Studenti,OU=Gruppi,DC=cenforaven,DC=edu") - se si volesse che l'utente appartenga a più gruppi contemporaneamente bisogna aggiungere un'altra colonna memberOf
+
+
+File compatibile CSV (*=opzionale)
+nome|cognome|idnumber*|email
+ 
+|------> CSV compatibile moodle (il punto e virgola è il delimitatore dei campi)
+| firstname=nome (prima lettera maiuscola)|lastname=cognome(tutto maiuscolo)|idnumber=idnumber(tutto maiuscolo)|email=email(tutto minuscolo e verificare che sia una mail valida)|username=email|auth=ldap(tramite tendina)| course[1...]*(campo di testo tutto maiuscolo)|group[1...]*(campo di testo tutto maiuscolo)
+|
+|------> CSV compatibile windows server 2019 AD (la virgola è il delimitatore dei campi)
+  givenName=nome (prima lettera maiuscola)|sn=cognome(tutto maiuscolo)| commonName=givenName + " " + sn | displayName = commonName | name = commonName | userPrincipalName=email (verificare che UPN sia nel formato di email tutto minuscolo) | sAMAccountName (parte antecedente @ dell'UPN) | userAccountControl (66048 con lista) | memberOf{1..} (DN del gruppo, ma in fase di inserimento una tendina con scritto Studenti o Amministratori o Docenti o Coordinatori)
